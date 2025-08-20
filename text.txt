@@ -1,0 +1,3 @@
+this is the text file 
+just a not for this repo 
+this repo only has the html file and the css file thats all :)
